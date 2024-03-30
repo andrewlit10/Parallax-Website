@@ -33,8 +33,10 @@ body {
     align-items: center;
     justify-content: center;
     display: flex;
-    
-    
+    min-height: 400px; 
+}
+.img1 > div {
+    min-height: 600px;
 }
 .imgtext {
     background-color: rgba(17, 15, 15, 0.2) ;
