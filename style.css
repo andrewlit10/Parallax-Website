@@ -39,9 +39,9 @@ body {
     min-height: 600px;
 }
 .imgtext {
-    background-color: rgba(17, 15, 15, 0.2) ;
+    background-color: rgba(17, 15, 15, 0.3) ;
     color: white;
-    padding: auto 25px;
+    padding: 15px;
     font-size: 2rem;
     text-transform: uppercase;
   
